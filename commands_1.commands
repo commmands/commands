@@ -1,7 +1,5 @@
-echo 11
-echo 22
-echo 33
-echo 44
-echo 55
-sudo apt install package
-docker version
+echo "comi - Commands Interface"
+# ------------
+# Examples:
+comi
+comi --source=https://github.com/commmands/commands/blob/master/commands_2.commands
