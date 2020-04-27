@@ -1,5 +1,6 @@
-echo "comi - Commands Interface"
+echo "km: Commands and Information Ecosystem"
 # ------------
 # Examples:
-comi
-comi --source=https://github.com/commmands/commands/blob/master/commands_2.commands
+km
+km --source=https://github.com/commmands/commands/blob/master/commands_2.commands
+km --clear-cache
