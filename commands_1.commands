@@ -4,3 +4,4 @@ echo "km: Commands and Information Ecosystem"
 km
 km --source=https://github.com/commmands/commands/blob/master/commands_2.commands
 km --clear-cache
+km --update
